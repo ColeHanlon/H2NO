@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecyclePage/> renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#fdfdf6",
+    }
+  }
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text />
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontFamily": "Cochin",
+            "fontSize": 28,
+            "marginBottom": 5,
+            "textAlign": "center",
+          }
+        }
+      >
+        Upload an image to learn how to recycle it!
+      </Text>
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 320,
+            "width": 320,
+          }
+        }
+      />
+      <View
+        accessibilityRole="button"
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Select Photo to Upload
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityRole="button"
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Take a Photo
+          </Text>
+        </View>
+      </View>
+      <Text />
+      <Text />
+      <Text
+        style={
+          Object {
+            "fontFamily": "Cochin",
+            "fontSize": 25,
+            "textAlign": "center",
+          }
+        }
+      >
+        ~Classification will appear here!~
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "justifyContent": "center",
+          "marginVertical": 50,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontFamily": "Cochin",
+            "fontsize": 100,
+          }
+        }
+      >
+        Learn more about recycling! Click the button below
+      </Text>
+      <Text />
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#5ce697",
+            "borderRadius": 15,
+            "marginVertial": 10,
+            "opacity": 1,
+            "padding": 10,
+            "width": 150,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "textAlign": "center",
+            }
+          }
+        >
+          Recycling 101
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;

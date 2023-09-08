@@ -1,0 +1,4 @@
+0 Aluminum can
+1 Plastic bottle
+2 Glass Jar
+3 Glass bottle
