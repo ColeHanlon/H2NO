@@ -1,3 +1,9 @@
+2022-2023 Senior Capstone Project 
+University of Utah
+H2NO
+
+A mobile application for iOS and Android, written using React Native.
+
 Environment set-up
 1. install npm via
     1.1. If you have a mac, you might need to install homebrew first. Follow this link for instructions-"https://docs.brew.sh/Installation"
